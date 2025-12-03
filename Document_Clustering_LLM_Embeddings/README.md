@@ -17,4 +17,4 @@ Clustering text documents using pretrained sentence transformer embeddings.
 
 ## Note
 
-Notebook provided without outputs - see screenshot for execution results.
+Notebook shows "Invalid" on GitHub due to metadata issues. See screenshot for full output.
